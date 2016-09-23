@@ -48,7 +48,6 @@ header{
 nav{
 width: 1000px;
 height: 50px;
-background: green;
 border-radius: 10px;
 
 }
@@ -63,7 +62,7 @@ li{
 	padding: 10px;
 	background: orange;
 	margin: 3px;
-	border-radius: 10px;
+	border-radius: 70px;
 	box-shadow: 0 0 10px white inset; 
 
 }
